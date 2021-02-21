@@ -1,7 +1,7 @@
 Assignment: CSS Hell
 ====================
 
-Part 1:
+## Part 1:
 
 * Themed paragraphs and some headers with the font-family: "American Typewriter, serif".
 * Changed the body background color to "rgb(248, 245, 214)" yellowish.
