@@ -13,9 +13,9 @@ Assignment: CSS Hell
 
 ## Part 2:
 
-* Citation
+### Citation
 
-Website layout: https://www.w3schools.com/css/css_website_layout.asp
+* Website layout: https://www.w3schools.com/css/css_website_layout.asp
 
 License/Copyright
 =================
