@@ -11,6 +11,10 @@ Assignment: CSS Hell
 * Took out CSS elements from html files as a CSS file.
 * Had CSS applied to 3 html files.
 
+## Part 2:
+
+* haha
+
 License/Copyright
 =================
 
