@@ -1,0 +1,365 @@
+p {  margin-top: .75em;
+    text-align: justify;
+    margin-bottom: .75em;
+    font-family: American Typewriter, serif;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+    text-align: center; /* all headings centered */
+    clear: both;
+    font-family: American Typewriter, serif;
+}
+    
+body{margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(248, 245, 214);
+}
+
+
+p.bold {text-align: center; font-weight: bold;}
+p.bold2 {text-align: center; font-weight: bold; font-size: 150%;}
+
+    
+h1 span, h2 span { display: block; text-align: center; }
+#id1 { font-size: smaller }
+
+
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both;
+}
+
+hr.smler {
+    width: 5%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 47.5%;
+    margin-right: 47.5%;
+    clear: both;
+}
+
+
+.pagenum  { /* uncomment the next line for invisible page numbers */
+        /*  visibility: hidden;  */
+            position: absolute;
+            left: 92%;
+            font-size: smaller;
+            text-align: right;
+            text-indent: 0px;
+        } /* page numbers */
+
+.center   {text-align: center;}
+.smcap    {font-variant: small-caps;}
+.mynote { background-color: #DDE; color: black; padding: .5em; margin-left: 20%;
+        margin-right: 20%; } /* colored box for notes at beginning of file */
+.space-above {margin-top: 3em;}
+.double-underline     {border-bottom: 4px double;}
+
+.poem             {display: inline-block; text-align: left;}
+.poem br          {display: none;}
+.poem .stanza     {margin: 1em 0em 1em 0em;}
+.poem div        {margin: 0; padding-left: 3em; text-indent: -3em;}
+.poem div.i1     {margin-left: 1em;}
+
+img {
+    border: 5px solid #555;
+  }
+
+  
+
+div.preamble {
+    font-family: sans-serif;
+    margin-bottom: 5em;
+}
+
+.pagenum {
+    /* visibility: hidden; */
+    position: absolute;
+    left: 92%;
+    font-size: smaller;
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.sc {
+    font-variant: small-caps;
+}
+
+.subtitle {
+	display: inline-block;
+	font-size: 72%;
+	margin-top: 1em;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.shiftdown {
+	display: inline-block;
+	margin-top: 0.5em;
+}
+
+.nomargin {
+	margin: 0;
+}
+
+.xlarge {
+    font-size: x-large;
+}
+
+.huge {
+    font-size: 300%;
+}
+
+blockquote {
+    font-size: 95%;
+}
+
+.centerhead {
+    text-align: center;
+    font-size: 120%;
+}
+
+.footnote {
+    font-size: 90%;
+    font-family: sans-serif;
+}
+
+fn {
+    vertical-align: top;
+    font-size: 70%;
+    font-family: sans-serif;
+}
+
+th {
+    font-size: 90%;
+}
+
+td {
+    font-size: 110%;
+	width: 1px;
+	white-space: nowrap;
+}
+
+.pn {
+    font-weight: normal;
+    text-align: right;
+	width: 3em;
+}
+
+.hangingindent {
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+.hangingindent3 {
+	padding-left: 3em;
+	text-indent: -3em;
+}
+
+.break-before {
+	page-break-before: always;
+}
+
+.right-justify {
+	text-align: right;
+}
+
+.indent-left {
+	padding-left: 2em;
+}
+
+.indent-right {
+	padding-right: 2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2.nobreak {
+    page-break-before: avoid;
+}
+
+hr.chap {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    clear: both;
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+}
+
+div.chapter {
+    page-break-before: always;
+}
+
+table {
+    margin: 1em auto 1em auto;
+    max-width: 30em;
+    border-collapse: collapse;
+}
+
+td {
+    padding-left: 2.25em;
+    padding-right: 0.25em;
+    vertical-align: top;
+    text-indent: -2em;
+    text-align: justify;
+}
+
+.tdc {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.tdpg {
+    vertical-align: bottom;
+    text-align: right;
+}
+
+.ad {
+    margin: auto;
+    max-width: 30em;
+}
+
+.blockquote {
+    margin: 1.5em 10%;
+}
+
+.center {
+    text-align: center;
+    text-indent: 0em;
+}
+
+.figcenter {
+    margin: auto;
+    text-align: center;
+}
+
+.footnotes {
+    margin-top: 1em;
+    border: dashed 1px;
+}
+
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em;
+}
+
+.footnote .label {
+    position: absolute;
+    right: 84%;
+    text-align: right;
+}
+
+.fnanchor {
+    vertical-align: super;
+    font-size: .8em;
+    text-decoration: none;
+}
+
+.hanging {
+    padding-left: 2em;
+    text-indent: -2em;
+}
+
+.larger {
+    font-size: 150%;
+}
+
+.noindent {
+    text-indent: 0em;
+}
+
+.pagenum {
+    position: absolute;
+    right: 4%;
+    font-size: smaller;
+    text-align: right;
+    font-style: normal;
+}
+
+.poetry-container {
+    text-align: center;
+    margin: 1em;
+}
+
+.poetry {
+    display: inline-block;
+    text-align: left;
+}
+
+.poetry .stanza {
+    margin: 1em 0em 1em 0em;
+}
+
+.poetry .verse {
+    padding-left: 3em;
+}
+
+.poetry .indent0 {
+    text-indent: -3em;
+}
+
+.poetry .indent10 {
+    text-indent: 2em;
+}
+
+.poetry .indent18 {
+    text-indent: 6em;
+}
+
+.poetry .indent22 {
+    text-indent: 8em;
+}
+
+.right {
+    text-align: right;
+}
+
+.smaller {
+    font-size: 80%;
+}
+
+.smcap {
+    font-variant: small-caps;
+    font-style: normal;
+}
+
+.tb {
+    margin-top: 2em;
+}
+
+.titlepage {
+    text-align: center;
+    margin-top: 3em;
+    text-indent: 0em;
+}
+
+@media handheld {
+
+img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.poetry {
+    display: block;
+    margin-left: 1.5em;
+}
+
+.blockquote {
+    margin: 1.5em 5%;
+}
+}
