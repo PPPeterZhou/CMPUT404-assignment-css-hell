@@ -1,16 +1,15 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
+Part 1:
 
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
-
-Read requirements.org
-
-Read this comic http://theoatmeal.com/comics/design_hell
-
-git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+* Themed paragraphs <p> and some head <h1-h6> with the font-family: "American Typewriter, serif".
+* Changed the body background color to "rgb(248, 245, 214)" yellowish.
+* Changed the reference source from local to online so that the web can show the images.
+* Added a grey border around each image.
+* Added an image caption under the image of Sir George Etienne Cartier.
+* Took out CSS elements from html files as a CSS file.
+* Had CSS applied to 3 html files.
 
 License/Copyright
 =================
