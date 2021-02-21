@@ -3,7 +3,7 @@ Assignment: CSS Hell
 
 Part 1:
 
-* Themed paragraphs "<p>" and some head "<h1-h6>" with the font-family: "American Typewriter, serif".
+* Themed paragraphs and some headers with the font-family: "American Typewriter, serif".
 * Changed the body background color to "rgb(248, 245, 214)" yellowish.
 * Changed the reference source from local to online so that the web can show the images.
 * Added a grey border around each image.
