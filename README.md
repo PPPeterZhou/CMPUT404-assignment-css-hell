@@ -13,8 +13,12 @@ Assignment: CSS Hell
 
 ## Citation
 
-* Website layout stolen from: https://www.w3schools.com/css/css_website_layout.asp
-* 
+* Part 1 Re-themed webpages are stolen from the following URLs:
+    * [A record of over Twenty Years at the Lyceum](https://www.gutenberg.org/files/64575/64575-h/64575-h.htm), by Percy Hetherington Fitzgerald.
+    * [Sir George Etienne Cartier](https://http://www.gutenberg.org/files/64593/64593-h/64593-h.htm), by John Boyd.
+    * [Minor Dialogues](https://http://www.gutenberg.org/files/64576/64576-h/64576-h.htm), by Lucius Seneca.
+* Part 2 website layout template is stolen from: https://www.w3schools.com/css/css_website_layout.asp
+
 
 License/Copyright
 =================
