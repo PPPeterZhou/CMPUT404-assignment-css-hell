@@ -7,6 +7,7 @@
     margin: 5px;
   }
   
+  /* FROM: https://www.w3schools.com/css/css_website_layout.asp- */
   /* Style the header */
   .header {
     background-image: radial-gradient(green 30%, red);
@@ -74,6 +75,8 @@
     clear: both;
   }
 
+  /* END FROM */
+  
   img {
     border: 2px solid #555;
     width: 400px;
