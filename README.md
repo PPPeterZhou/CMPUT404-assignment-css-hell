@@ -11,11 +11,10 @@ Assignment: CSS Hell
 * Took out CSS elements from html files as a CSS file.
 * Had CSS applied to 3 html files.
 
-## Part 2:
+## Citation
 
-### Citation
-
-* Website layout: https://www.w3schools.com/css/css_website_layout.asp
+* Website layout stolen from: https://www.w3schools.com/css/css_website_layout.asp
+* 
 
 License/Copyright
 =================
