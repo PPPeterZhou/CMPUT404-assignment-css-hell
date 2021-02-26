@@ -4,6 +4,7 @@ Assignment: CSS Hell
 ## Part 1:
 
 * Themed paragraphs and some headers with the font-family: "American Typewriter, serif".
+* Added paragraph brown borders. 
 * Changed the body background color to "rgb(248, 245, 214)" yellowish.
 * Changed the reference source from local to online so that the web can show the images.
 * Added a grey border around each image.
